@@ -2,5 +2,6 @@ require 'pry'
 
 def my_find(collection)
  i = 0
- coll
+ num = []
+ while i < collection.length
 end
